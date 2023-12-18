@@ -1,0 +1,9 @@
+
+Mon Dec 18 13:21:40 MSK 2023 Program started
+Mon Dec 18 13:21:43 MSK 2023 Program finished
+Mon Dec 18 13:23:00 MSK 2023 Program started
+Mon Dec 18 13:23:03 MSK 2023 Program finished
+Mon Dec 18 13:24:47 MSK 2023 Program started
+Mon Dec 18 13:24:48 MSK 2023 Program finished
+Mon Dec 18 13:27:49 MSK 2023 Program started
+Mon Dec 18 13:27:51 MSK 2023 Program finished

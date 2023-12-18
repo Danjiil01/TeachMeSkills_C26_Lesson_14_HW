@@ -1,0 +1,2 @@
+contractABCDE123456: Invalid format or contains illegal characters
+docnum777777777777: Invalid format or contains illegal characters
